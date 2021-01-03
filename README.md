@@ -48,7 +48,7 @@ To install the Go Ethereum Tools, please follow the next steps: ​
 ```
 mkdir node1 node2
 ```
-Your folder will look like this: ![Testnet_Directory](http://screenshots/testnet_dir.png)
+Your folder will look like this: ![Testnet_Directory](screenshots/testnet_dir.png)
 
 2. Get new accounts numbers from nodes to use as signers
 ```
@@ -60,6 +60,4 @@ Your folder will look like this: ![Testnet_Directory](http://screenshots/testnet
 echo 'node1pass' > node1/password.txt
 echo 'node2pass' > node2/password.txt
 ```
-=======
-- You have finished the installation process; you will use these tools to create my very own blockchain! ​
->>>>>>> 27646eb1acb95dd2b97291a010915989ab9eac4b
+
