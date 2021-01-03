@@ -1,4 +1,4 @@
-Assignment #18 - blockchain  <br /> 
+# Assignment #18 - Blockchain  <br /> 
 
 In this project, I will create a testnet blockchain network for an imaginary company. <br />
 Below are the steps of this assignment:
@@ -15,13 +15,15 @@ In order to set up a testnet, I will need to use the following tools we covered 
 # 1. Blockchain Installation Guide <br />
 ***Installing MyCrypto Desktop App***
 
-​ MyCrypto is a free, open-source, client-side interface that allows I to interact directly with the blockchain. ​ For this example, we will use MyCrypto Desktop App to manage ethereum wallets and make transactions in the blockchain. ​ To install MyCrypto Desktop App, please follow the next steps: ​
+MyCrypto is a free, open-source, client-side interface that allows for interacting directly with the blockchain. <br />
+For this example, we will use MyCrypto Desktop App to manage ethereum wallets and make transactions in the blockchain. <br />
+To install MyCrypto Desktop App, please follow the next steps:
 
-Open my browser and navigate to the downloads page at https://download.mycrypto.com/. ​
+Open my browser and navigate to the downloads page at https://download.mycrypto.com/.
 
-Depending on my operating system, you will be redirected to the corresponding application installer. If you are not correctly redirected, choose the appropriate installer for my operating system. ​
+Depending on my operating system, you will be redirected to the corresponding application installer. If you are not correctly redirected, choose the appropriate installer for my operating system.
 
-Once you download the installer, open the file, and follow the installation wizard. ​
+Once you download the installer, open the file, and follow the installation wizard.
 
 ***My Crypto Installation Notes***
 
