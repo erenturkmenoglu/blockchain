@@ -25,11 +25,11 @@ Once you download the installer, open the file, and follow the installation wiza
 
 ***Installing Go Ethereum Tools***
 
-​ Go Ethereum is one of the three original implementations of the Ethereum protocol. It is written in Go, fully open-source and licensed under the GNU LGPL v3. ​
+Go Ethereum is one of the three original implementations of the Ethereum protocol. It is written in Go, fully open-source and licensed under the GNU LGPL v3. ​
 
 In this example, we will use Go Ethereum Tools to create our very own blockchain, from the genesis block to mining tokens and making transactions. ​
 
-Despite there are installers for OS X and Windows, we will use the application executable binary files to have a seamless experience between both operating systems and avoid some technical issues that currently exist in Windows. ​ To install the Go Ethereum Tools, please follow the next steps: ​
+To install the Go Ethereum Tools, please follow the next steps: ​
 
 Open the browser and navigate to the Go Ethereum Tools download page at https://geth.ethereum.org/downloads/ ​
 Scroll down to the "Stable Releases" section and proceed depending on your operating system.​ Click on the ***Geth & Tools 1.9.7*** to download the applications bundle archive. ​
