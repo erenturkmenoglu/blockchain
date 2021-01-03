@@ -70,7 +70,7 @@ echo 'node2address' > node2/accounts.txt
 # 3. Running Puppeth <br />
 1. Open your terminal window and navigate to your unzipped folder and type the following command.
 ```
-```./puppeth```
+./puppeth
 ```
 2. Name your network ('testnet_block')
 3. Type ```2``` to select ```Configure new genesis``` option, then ```1``` to select ```Create new genesis from scratch```
