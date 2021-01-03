@@ -99,13 +99,13 @@ echo 'node2address' > node2/accounts.txt
 ./geth --datadir node1 --mine --minerthreads 1 --unlock "NODE1_address" --password node1/password.txt  --rpc --allow-insecure-unlock
 ```
 - copy the entire enode:// address (including the last @address:port segment) of the first node located in the Started P2P Networking line:
-![Launch_1st_Node](launch 1st node.png)
+![Launch_1st_Node](launch_1st_node.png)
 
 3. Launch 2nd node
 ```
 ./geth --datadir node2 --unlock "NODE2_address" --mine --port 30305 --bootnodes enode://YOUR_ENDCODE_FROM_NODE1 --password node2/password.txt  --allow-insecure-unlock
 ```
-![Launch_1st_Node](launch 2nd node.png)
+![Launch_1st_Node](launch_2nd_node.png)
 
 
 ***Note:*** If I ever encounter strange errors, or need to start over without destroying the accounts, run the following command to clear the chain data (this will reset the enode addresses as well): ​
@@ -120,7 +120,7 @@ For the nodes to speak to each other a new custom network must be created.
 3. The chain ID must match what I came up with earlier. ​
 4. The URL is pointing to the default RPC port on my local machine. Everyone should use this same URL: http://127.0.0.1:8545. ​ Click on the "Save & Use Custom Node" button, to use the network; double-check that it is selected and is connected. ​
 
-![SetUp_Node](set up custom node.png)
+![SetUp_Node](set_custom_node.png)
 5. Import the keystore file from the node1/keystore directory into MyCrypto. This will import the private key and will allow you to send ETH to another address.
 
 6. Send a transaction from the node1 account to the node2 account.
@@ -128,4 +128,4 @@ For the nodes to speak to each other a new custom network must be created.
 8. The transaction is should now read Succesfull! C with the metadata (status, tx hash, block number, etc).
 9. Celebrate, I just created a blockchain and sent a transaction!
 
-#### Never share my mainnet private keys! This is a testnet, so coins have no value here!
+#### Never share your mainnet private keys! This is a testnet, so coins have no value here!
