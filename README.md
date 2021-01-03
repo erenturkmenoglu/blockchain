@@ -39,6 +39,7 @@ To install the Go Ethereum Tools, please follow the next steps: ​
 
 - Decompress the archive in the location of your preference in your computer's hard drive, and rename the containing folder as Blockchain-Tools. I recommend using a location that can be easily accessed from the terminal window like the user's home directory.
 
+<<<<<<< HEAD
 - You have finished the installation process; you will use these tools to create my very own blockchain! 
 
 # 2. Instructions for POA Blockchain Transactions <br />
@@ -59,3 +60,6 @@ Your folder will look like this: ![Testnet_Directory](http://screenshots/testnet
 echo 'node1pass' > node1/password.txt
 echo 'node2pass' > node2/password.txt
 ```
+=======
+- You have finished the installation process; you will use these tools to create my very own blockchain! ​
+>>>>>>> 27646eb1acb95dd2b97291a010915989ab9eac4b
