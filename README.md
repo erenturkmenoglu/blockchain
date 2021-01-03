@@ -12,7 +12,7 @@ In order to set up a testnet, I will need to use the following tools we covered 
 - Geth, a command-line tool, to create keys, initialize nodes, and connect nodes together
 - The clique proof of authority algorithm
 
-**1. Blockchain Installation Guide**
+#1. Blockchain Installation Guide#
 ***Installing MyCrypto Desktop App***
 
 ​ MyCrypto is a free, open-source, client-side interface that allows I to interact directly with the blockchain. ​ For this example, we will use MyCrypto Desktop App to manage ethereum wallets and make transactions in the blockchain. ​ To install MyCrypto Desktop App, please follow the next steps: ​
