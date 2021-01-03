@@ -19,9 +19,9 @@ MyCrypto is a free, open-source, client-side interface that allows for interacti
 For this example, we will use MyCrypto Desktop App to manage ethereum wallets and make transactions in the blockchain. <br />
 To install MyCrypto Desktop App, please follow the next steps:
 
-Open the browser and navigate to https://download.mycrypto.com/.
+- Open the browser and navigate to https://download.mycrypto.com/.
 
-Once you download the installer, open the file, and follow the installation wizard.
+- Once you download the installer, open the file, and follow the installation wizard.
 
 ***Installing Go Ethereum Tools***
 
@@ -31,11 +31,12 @@ In this example, we will use Go Ethereum Tools to create our very own blockchain
 
 To install the Go Ethereum Tools, please follow the next steps: ​
 
-Open the browser and navigate to the Go Ethereum Tools download page at https://geth.ethereum.org/downloads/ ​
-Scroll down to the "Stable Releases" section and proceed depending on your operating system.​ Click on the ***Geth & Tools 1.9.7*** to download the applications bundle archive. ​
+- Open the browser and navigate to the Go Ethereum Tools download page at https://geth.ethereum.org/downloads/ ​
 
-After downloading the tools archive, open my "Downloads" folder, and you will find a file named geth-alltools-darwin-amd64-1.9.7-a718daa6.tar.gz in OS X, and a file called geth-alltools-windows-amd64-1.9.7-a718daa6.zip in Windows.
+- Scroll down to the "Stable Releases" section and proceed depending on your operating system.​ Click on the ***Geth & Tools 1.9.7*** to download the applications bundle archive. ​
 
-Decompress the archive in the location of your preference in your computer's hard drive, and rename the containing folder as Blockchain-Tools. I recommend using a location that can be easily accessed from the terminal window like the user's home directory.
+- After downloading the tools archive, open my "Downloads" folder, and you will find a file named geth-alltools-darwin-amd64-1.9.7-a718daa6.tar.gz in OS X, and a file called geth-alltools-windows-amd64-1.9.7-a718daa6.zip in Windows.
 
-You have finished the installation process; you will use these tools to create my very own blockchain! ​
+- Decompress the archive in the location of your preference in your computer's hard drive, and rename the containing folder as Blockchain-Tools. I recommend using a location that can be easily accessed from the terminal window like the user's home directory.
+
+- You have finished the installation process; you will use these tools to create my very own blockchain! ​
