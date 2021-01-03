@@ -50,6 +50,13 @@ mkdir node1 node2
 ```
 Your folder will look like this: ![Testnet_Directory](testnet_dir.png)
 
+<img
+src=“testnet_dir.png”
+raw=true
+alt=“Testnet_Directory”
+style=“margin-right: 10px;”
+/>
+
 2. Get new accounts numbers from nodes to use as signers
 ```
 ./geth account new --datadir node1
